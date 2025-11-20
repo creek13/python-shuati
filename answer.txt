@@ -1,0 +1,4 @@
+12. --upgrade 13.whl 14.--main-- 15. abcd 16. PIL.Image 17.tkinter.messagebox 
+18. 4 19. builtin_module_names 20.stdlib_module_names 21.modules 22.exec_prefix
+23.executable 24.path 25.argv 26.danhang: #,duohuang:''' 27.\ 31. random(dont have yuan-chengxu file) 32.pillow( tuxiang-chuli ku) 34.demo 35.py,pyw 36.abcd 
+37.abcd 38.abcd 39.abc 40.abcd 41.abcd 42.abcd 43.abcd 44.cd 45. ab 都是操作系统的命令行工具，其中power shell 是高级命令行工具，idlepython 交互模式只能运行代码，d则能通过控制台用前缀！直接执行系统命令 46.d 47.ab
